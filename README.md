@@ -1,3 +1,3 @@
 # demo
 My first repo.
-<br>Author: Talha Ansari    
+<br>Author: Talha Ansari
